@@ -49,7 +49,7 @@ body {
 }
 
 .hero-wrapper h1 {
-    background-color: lightblue;
+    background-color: rgb(59, 172, 209);
     color: white;
     display: inline-block;
     padding: 10px 0px;
@@ -60,7 +60,7 @@ body {
 
 
 .hero-wrapper h2 {
-    background-color: navy;
+    background-color: rgb(95, 228, 54);
     color: white;
     display: inline-block;
     padding: 10px 25px;
@@ -70,7 +70,7 @@ body {
 }
 
 .hero-wrapper button {
-    background-color: green;
+    background-color: rgb(27, 95, 27);
     color: white;
     height: 50px;
     width: 40%;
